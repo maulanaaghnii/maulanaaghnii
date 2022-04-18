@@ -8,5 +8,5 @@
 
 
 
-Hi guys, I'm **TB. Maulana Aghni**. I am a HiTech Person from Indonesia. I'm currently Studying at Dian Nuswantoro University majoring in Computer Science.  
+Hi guys, I'm **TB. Maulana Aghni**. I am a Engineer from Indonesia. I'm currently Studying at Dian Nuswantoro University majoring in Computer Science.  
 Contact me if you have same interesting or some questions!
