@@ -1,7 +1,7 @@
 ## Glad to see You <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 Just call me "Mek" <br>
 Software Engineer
-  <img align="right" alt="GIF" src="[https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif)" />
+    <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif" />
 ## 🌐Socials
 <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/610988141892861976) --> 
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mclanaaghni)--> 
