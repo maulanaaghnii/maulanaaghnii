@@ -14,7 +14,7 @@ Software Engineer
   Node.js
 - ![C#](https://img.shields.io/badge/-c-333333?style=flat&logo=csharp) &nbsp;
   .Net Framework 3.6
-
+##
 
 ## 🌐Socials
 <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/610988141892861976) --> 
