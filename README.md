@@ -2,7 +2,7 @@
 ## Glad to see You <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif" width="300px" />
 Just call me "Mek" <br>
-Software Engineer
+.NET Software Engineer
 
 ## 🛠 &nbsp;Tech Stack
 
