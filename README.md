@@ -1,6 +1,6 @@
 
 ## Glad to see you `<coders/>` <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<img align="right" width="50%" alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right" width="25%" alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 
 ### 😘 Knowing me better:
 - Just call me "Mek"
