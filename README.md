@@ -49,7 +49,7 @@ Glad to see You <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercon
   </tr>
 </table>
   </div>
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif" alt="Profile Image" style="max-width: 50%; margin-left: auto;" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif" alt="Profile Image" style="max-width: 100%; margin-left: auto;" />
 </div>
 
 
