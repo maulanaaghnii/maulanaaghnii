@@ -29,7 +29,7 @@
     </td>  
     <td align="center" width="96">
       <a href="">
-        <img src="./assets/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./assets/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>
     </td>
