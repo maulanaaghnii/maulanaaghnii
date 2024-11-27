@@ -8,6 +8,7 @@
 - Check out [my profile](https://maulanaaghnii.github.io/)
 - Investigate [my personal wiki](https://maulanaaghnii.github.io/wiki) if you need a some cheatsheet
 - I am a journal & wiki lovers 📝
+- Cities Skylines Sparker 🎮🏢
 
 
 
