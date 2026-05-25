@@ -22,7 +22,12 @@
       </a>
       <br>
     </td>
-    
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" width="75%" alt="dotnet" />
+      </a>
+      <br>
+    </td>  
     <td align="center" width="96">
       <a href="">
         <img src="./assets/go-original.svg" width="48" height="48" alt="Golang" />
@@ -35,7 +40,18 @@
       </a>
       <br>
     </td>
-     
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/0e/Django-logo.svg/2560px-Django-logo.svg.png" width="100%" alt="django" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="70%" alt="cpp" />
+      </a>
+      <br>
+    </td>    
     <td align="center" width="96"> 
       <a href="" >
         <img src="./assets/docker-original.svg" width="70%" alt="Docker" />
