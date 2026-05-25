@@ -40,7 +40,12 @@
       </a>
       <br>
     </td>
-
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/0e/Django-logo.svg/2560px-Django-logo.svg.png" width="100%" alt="django" />
+      </a>
+      <br>
+    </td>
     <td align="center" width="96">
       <a href="">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="70%" alt="cpp" />
